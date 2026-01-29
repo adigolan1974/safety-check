@@ -1,0 +1,9 @@
+{
+  "name": "safety-check",
+  "version": "1.0.0",
+  "description": "Public background check tool",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
